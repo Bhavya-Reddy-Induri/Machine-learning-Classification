@@ -1,2 +1,5 @@
 # Machine-learning-Classification
-implementation of classification using ML algos
+In this  project for the purpose of  dataset classification  , used  different set of classification algorithms for different type of datsets. 
+Language : Python ,R
+Modules :Pandas ,numpy,sklearn,MissForest,Mice ,Soft Impute
+
